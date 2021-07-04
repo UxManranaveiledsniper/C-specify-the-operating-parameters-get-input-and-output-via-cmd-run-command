@@ -1,0 +1,7 @@
+C:\Users\UZI\source\repos\cmd run and get systeminfo\cmd run and get systeminfo\obj\Debug\cmd run and get systeminfo.csprojAssemblyReference.cache
+C:\Users\UZI\source\repos\cmd run and get systeminfo\cmd run and get systeminfo\obj\Debug\cmd run and get systeminfo.csproj.CoreCompileInputs.cache
+C:\Users\UZI\source\repos\cmd run and get systeminfo\cmd run and get systeminfo\bin\Debug\cmd run and get systeminfo.exe.config
+C:\Users\UZI\source\repos\cmd run and get systeminfo\cmd run and get systeminfo\bin\Debug\cmd run and get systeminfo.exe
+C:\Users\UZI\source\repos\cmd run and get systeminfo\cmd run and get systeminfo\bin\Debug\cmd run and get systeminfo.pdb
+C:\Users\UZI\source\repos\cmd run and get systeminfo\cmd run and get systeminfo\obj\Debug\cmd run and get systeminfo.exe
+C:\Users\UZI\source\repos\cmd run and get systeminfo\cmd run and get systeminfo\obj\Debug\cmd run and get systeminfo.pdb

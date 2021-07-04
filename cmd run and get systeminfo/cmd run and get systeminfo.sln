@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmd run and get systeminfo", "cmd run and get systeminfo\cmd run and get systeminfo.csproj", "{F7F809D2-ED38-448A-9C1E-0450D792014F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F809D2-ED38-448A-9C1E-0450D792014F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F809D2-ED38-448A-9C1E-0450D792014F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F809D2-ED38-448A-9C1E-0450D792014F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F809D2-ED38-448A-9C1E-0450D792014F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B799ED2F-B119-4852-A79E-D674ED4D277E}
+	EndGlobalSection
+EndGlobal
